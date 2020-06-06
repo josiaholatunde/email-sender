@@ -1,0 +1,6 @@
+.vscode/
+.vs/
+EmailSender/obj
+EmailSender/bin
+EmailSenderTests/bin
+EmailSenderTests/obj
